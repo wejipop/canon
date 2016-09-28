@@ -1,0 +1,1 @@
+document.getElementById("main-canvas").addEventListener("click", game);
